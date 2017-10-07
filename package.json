@@ -1,0 +1,19 @@
+{
+  "name": "outflux-db",
+  "version": "1.0.0",
+  "description": "database for music streaming",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node server.js"
+  },
+  "author": "Yash A",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.1",
+    "express-graphql": "^0.6.11",
+    "graphql": "^0.11.7"
+  }
+}
