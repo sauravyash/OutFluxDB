@@ -1,0 +1,45 @@
+// track json
+{
+  track_title: "Slide",
+  track_artist: "Calvin Harris feat. Frank Ocean & Migos",
+  artists: [
+    "Calvin Harris",
+    "Frank Ocean",
+    "Migos"
+  ],
+  album_name: "Funk Wav Bounces Vol.1",
+  album_artist: "Calvin Harris",
+  track_explicit: true,
+  track_composer: "",
+  track_length: "",
+  track_number: "1",
+  disk_number: "1",
+  track_bpm: "",
+  lyrics: ""
+}
+
+// album json
+{
+  album_name: "Funk Wav Bounces Vol.1",
+  album_artist: "Calvin Harris",
+  album_year: "2017",
+  album_genre: [
+    "Electronic",
+    "Funk",
+    "Soul",
+    "R&B"
+  ],
+  album_compilation: false,
+  album_copyright_tag: "",
+  album_artwork: "",
+  album_link: ""
+}
+
+// artist json
+{
+  artist_name: "Calvin Harris",
+  arist_group: false,
+  // if arist group is true
+  // artist_members:[...],
+  artist_biography: ""
+}
